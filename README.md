@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cosmog](Cosmog_icono_HOME.png)
+
 <!--
 **4thPlayer/4thPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
